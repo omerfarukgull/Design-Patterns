@@ -1,0 +1,7 @@
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb
