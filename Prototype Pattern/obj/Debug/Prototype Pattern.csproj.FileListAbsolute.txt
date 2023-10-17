@@ -1,0 +1,7 @@
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\bin\Debug\Prototype Pattern.exe.config
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\bin\Debug\Prototype Pattern.exe
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\bin\Debug\Prototype Pattern.pdb
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\obj\Debug\Prototype Pattern.csproj.AssemblyReference.cache
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\obj\Debug\Prototype Pattern.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\obj\Debug\Prototype Pattern.exe
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\Prototype Pattern\obj\Debug\Prototype Pattern.pdb
