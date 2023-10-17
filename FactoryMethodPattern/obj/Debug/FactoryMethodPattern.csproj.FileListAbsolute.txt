@@ -1,0 +1,7 @@
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.AssemblyReference.cache
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\Users\omerf\OneDrive\Masaüstü\DesignPatterns\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
